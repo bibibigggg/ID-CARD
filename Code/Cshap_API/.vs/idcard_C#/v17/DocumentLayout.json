@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moble\\source\\repos\\idcard_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|c:\\users\\moble\\source\\repos\\idcard_c\\idcard_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|solutionrelative:idcard_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|c:\\users\\moble\\source\\repos\\idcard_c\\idcard_c#\\googlevisionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|solutionrelative:idcard_c#\\googlevisionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|c:\\users\\moble\\source\\repos\\idcard_c\\idcard_c#\\azurefaceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|solutionrelative:idcard_c#\\azurefaceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|c:\\users\\moble\\source\\repos\\idcard_c\\idcard_c#\\qrcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|solutionrelative:idcard_c#\\qrcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|c:\\users\\moble\\source\\repos\\idcard_c\\idcard_c#\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|solutionrelative:idcard_c#\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|c:\\users\\moble\\source\\repos\\idcard_c\\idcard_c#\\key.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|solutionrelative:idcard_c#\\key.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|c:\\users\\moble\\source\\repos\\idcard_c\\idcard_c#\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|solutionrelative:idcard_c#\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|c:\\users\\moble\\source\\repos\\idcard_c\\idcard_c#\\imageutils1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C382D932-3E3A-4087-A8E9-40EF08001E1E}|idcard_C#\\idcard_C#.csproj|solutionrelative:idcard_c#\\imageutils1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Key.json",
+              "DocumentMoniker": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\Key.json",
+              "RelativeDocumentMoniker": "idcard_C#\\Key.json",
+              "ToolTip": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\Key.json",
+              "RelativeToolTip": "idcard_C#\\Key.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T03:05:15.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AES.cs",
+              "DocumentMoniker": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\AES.cs",
+              "RelativeDocumentMoniker": "idcard_C#\\AES.cs",
+              "ToolTip": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\AES.cs",
+              "RelativeToolTip": "idcard_C#\\AES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:34:19.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\DatabaseHandler.cs",
+              "RelativeDocumentMoniker": "idcard_C#\\DatabaseHandler.cs",
+              "ToolTip": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\DatabaseHandler.cs",
+              "RelativeToolTip": "idcard_C#\\DatabaseHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:32:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QrCodeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\QrCodeGenerator.cs",
+              "RelativeDocumentMoniker": "idcard_C#\\QrCodeGenerator.cs",
+              "ToolTip": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\QrCodeGenerator.cs",
+              "RelativeToolTip": "idcard_C#\\QrCodeGenerator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:27:09.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AzureFaceApi.cs",
+              "DocumentMoniker": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\AzureFaceApi.cs",
+              "RelativeDocumentMoniker": "idcard_C#\\AzureFaceApi.cs",
+              "ToolTip": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\AzureFaceApi.cs",
+              "RelativeToolTip": "idcard_C#\\AzureFaceApi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:17:26.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleVisionApi.cs",
+              "DocumentMoniker": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\GoogleVisionApi.cs",
+              "RelativeDocumentMoniker": "idcard_C#\\GoogleVisionApi.cs",
+              "ToolTip": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\GoogleVisionApi.cs",
+              "RelativeToolTip": "idcard_C#\\GoogleVisionApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:07:57.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\Program.cs",
+              "RelativeDocumentMoniker": "idcard_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\Program.cs",
+              "RelativeToolTip": "idcard_C#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:21:22.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageUtils1.cs",
+              "DocumentMoniker": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\ImageUtils1.cs",
+              "RelativeDocumentMoniker": "idcard_C#\\ImageUtils1.cs",
+              "ToolTip": "C:\\Users\\moble\\source\\repos\\idcard_C\\idcard_C#\\ImageUtils1.cs",
+              "RelativeToolTip": "idcard_C#\\ImageUtils1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:31:04.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

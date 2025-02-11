@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uC9C0\uD61C\\3\uCC28_\uCD5C\uC885\\\uCF54\uB4DC\\dblog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3632B706-CD68-4E5B-86B2-B78D60A79B30}|dblog\\dblog.csproj|c:\\users\\user\\desktop\\\uC9C0\uD61C\\3\uCC28_\uCD5C\uC885\\\uCF54\uB4DC\\dblog\\dblog\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3632B706-CD68-4E5B-86B2-B78D60A79B30}|dblog\\dblog.csproj|solutionrelative:dblog\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3632B706-CD68-4E5B-86B2-B78D60A79B30}|dblog\\dblog.csproj|C:\\Users\\user\\Desktop\\\uC9C0\uD61C\\3\uCC28_\uCD5C\uC885\\\uCF54\uB4DC\\dblog\\dblog\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3632B706-CD68-4E5B-86B2-B78D60A79B30}|dblog\\dblog.csproj|solutionrelative:dblog\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "log.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uC9C0\uD61C\\3\uCC28_\uCD5C\uC885\\\uCF54\uB4DC\\dblog\\dblog\\log.cs",
+              "RelativeDocumentMoniker": "dblog\\log.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uC9C0\uD61C\\3\uCC28_\uCD5C\uC885\\\uCF54\uB4DC\\dblog\\dblog\\log.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "dblog\\log.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:32:59.002Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uC9C0\uD61C\\3\uCC28_\uCD5C\uC885\\\uCF54\uB4DC\\dblog\\dblog\\main.cs",
+              "RelativeDocumentMoniker": "dblog\\main.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uC9C0\uD61C\\final\\code\\dblog_\uCD5C\uC885\\dblog\\main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\final\\code\\dblog_\uCD5C\uC885\\dblog\\main.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:25:57.912Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

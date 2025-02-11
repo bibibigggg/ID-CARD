@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\지혜\final\code\dblog\dblog\obj\Debug\net5.0-windows\dblog.log.resources
+C:\Users\user\Desktop\지혜\final\code\dblog\dblog\obj\Debug\net5.0-windows\dblog.main.resources
+C:\Users\user\Desktop\지혜\final\code\dblog\dblog\obj\Debug\net5.0-windows\dblog.csproj.GenerateResource.cache
+C:\Users\user\Desktop\지혜\final\code\dblog\dblog\obj\Debug\net5.0-windows\dblog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\지혜\final\code\dblog\dblog\obj\Debug\net5.0-windows\dblog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\지혜\final\code\dblog\dblog\obj\Debug\net5.0-windows\dblog.AssemblyInfo.cs
+C:\Users\user\Desktop\지혜\final\code\dblog\dblog\obj\Debug\net5.0-windows\dblog.csproj.CoreCompileInputs.cache

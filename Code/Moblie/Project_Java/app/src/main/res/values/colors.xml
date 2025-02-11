@@ -1,0 +1,5 @@
+<resources>
+    <color name="colorPrimary">#000000</color> <!-- 검정색 기본 색상 -->
+    <color name="colorPrimaryDark">#000000</color> <!-- 상태 바도 검정색 -->
+    <color name="colorAccent">#000000</color> <!-- 강조 색도 검정색 -->
+</resources>

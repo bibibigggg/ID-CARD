@@ -1,0 +1,15 @@
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\bin\Debug\net5.0\idcard_C#.exe
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\bin\Debug\net5.0\idcard_C#.deps.json
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\bin\Debug\net5.0\idcard_C#.runtimeconfig.json
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\bin\Debug\net5.0\idcard_C#.runtimeconfig.dev.json
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\bin\Debug\net5.0\idcard_C#.dll
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\bin\Debug\net5.0\idcard_C#.pdb
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\obj\Debug\net5.0\idcard_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\obj\Debug\net5.0\idcard_C#.AssemblyInfoInputs.cache
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\obj\Debug\net5.0\idcard_C#.AssemblyInfo.cs
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\obj\Debug\net5.0\idcard_C#.csproj.CoreCompileInputs.cache
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\obj\Debug\net5.0\idcard_C#.dll
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\obj\Debug\net5.0\refint\idcard_C#.dll
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\obj\Debug\net5.0\idcard_C#.pdb
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\obj\Debug\net5.0\idcard_C#.genruntimeconfig.cache
+C:\Users\moble\source\repos\idcard_C#\idcard_C#\obj\Debug\net5.0\ref\idcard_C#.dll
